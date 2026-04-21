@@ -1,0 +1,22 @@
+{
+    "name": "byteclass/app",
+    "type": "project",
+    "authors": [
+        {
+            "name": "DevKenya1",
+            "email": "codetechhub1@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^7.0",
+        "mpdf/mpdf": "^8.3",
+        "endroid/qr-code": "^4.8",
+        "intervention/image": "^2.7",
+        "firebase/php-jwt": "6.10"
+    },
+    "config": {
+        "audit": {
+            "ignore": ["PKSA-y2cr-5h3j-g3ys"]
+        }
+    }
+}

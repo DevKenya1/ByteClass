@@ -1,0 +1,18 @@
+﻿RewriteEngine On
+Options -Indexes
+
+# Block direct access to sensitive folders
+RewriteRule ^(config|helpers|middleware|models|logs|uploads/certificates|uploads/contracts|uploads/payslips)/ - [F,L]
+
+# Allow API calls
+RewriteCond %{REQUEST_URI} ^/ByteClass/api/ [NC]
+RewriteRule ^ - [L]
+
+# Pretty URLs for public pages (optional)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Security headers
+Header always set X-Content-Type-Options nosniff
+Header always set X-Frame-Options SAMEORIGIN
+Header always set X-XSS-Protection "1; mode=block"
