@@ -2,8 +2,7 @@
 
 <div align="center">
 
-![ByteClass Banner](<img width="1363" height="684" alt="Homepage" src="https://github.com/user-attachments/assets/75700e92-404e-4fc2-b821-bf512c05bcbc" />
-)
+![ByteClass Banner](https://github.com/user-attachments/assets/75700e92-404e-4fc2-b821-bf512c05bcbc)
 
 **Kenya's premier online technology education platform**
 
