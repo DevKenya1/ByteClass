@@ -11,19 +11,11 @@
   <img src="https://github.com/user-attachments/assets/6dd2f902-e4cf-4067-aa9e-39c33c57c3fc" width="24%" alt="Lecturer Dashboard">
 </p>
 
-## 📸 Homepage
-
 ![Homepage](https://github.com/user-attachments/assets/96c816ca-3c76-4653-b12e-f18a032026d4)
-
-## 🛡️ Admin Dashboard
 
 ![Admin Dashboard](https://github.com/user-attachments/assets/40324d9f-abd2-48a1-b116-20476737f88a)
 
-## 🎓 Student Dashboard
-
 ![Student Dashboard](https://github.com/user-attachments/assets/9367ad7e-bb37-4d1e-a1c8-4ac5fe9307af)
-
-## 👨‍🏫 Lecturer Dashboard
 
 ![Lecturer Dashboard](https://github.com/user-attachments/assets/6dd2f902-e4cf-4067-aa9e-39c33c57c3fc)
 **Kenya's premier online technology education platform**
