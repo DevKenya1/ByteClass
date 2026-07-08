@@ -4,6 +4,14 @@
 
 ![ByteClass Banner](https://github.com/user-attachments/assets/75700e92-404e-4fc2-b821-bf512c05bcbc)
 
+<p align="center">
+  <img src="<img width="1363" height="684" alt="Screenshot 2026-04-18 135712" src="https://github.com/user-attachments/assets/96c816ca-3c76-4653-b12e-f18a032026d4" />
+" width="24%" alt="Image 1">
+  <img src="https://your-image-link-2.png" width="24%" alt="Image 2">
+  <img src="https://your-image-link-3.png" width="24%" alt="Image 3">
+  <img src="https://your-image-link-4.png" width="24%" alt="Image 4">
+</p>
+
 **Kenya's premier online technology education platform**
 
 [![PHP](https://img.shields.io/badge/PHP-8.0+-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
