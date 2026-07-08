@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![ByteClass Banner](https://github.com/user-attachments/assets/75700e92-404e-4fc2-b821-bf512c05bcbc)
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/96c816ca-3c76-4653-b12e-f18a032026d4" width="24%" alt="Homepage">
