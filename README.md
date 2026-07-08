@@ -5,13 +5,11 @@
 ![ByteClass Banner](https://github.com/user-attachments/assets/75700e92-404e-4fc2-b821-bf512c05bcbc)
 
 <p align="center">
-  <img src="<img width="1363" height="684" alt="Screenshot 2026-04-18 135712" src="https://github.com/user-attachments/assets/96c816ca-3c76-4653-b12e-f18a032026d4" />
-" width="24%" alt="Image 1">
-  <img src="https://your-image-link-2.png" width="24%" alt="Image 2">
-  <img src="https://your-image-link-3.png" width="24%" alt="Image 3">
-  <img src="https://your-image-link-4.png" width="24%" alt="Image 4">
+  <img src="https://github.com/user-attachments/assets/96c816ca-3c76-4653-b12e-f18a032026d4" width="24%" alt="Homepage">
+  <img src="https://github.com/user-attachments/assets/40324d9f-abd2-48a1-b116-20476737f88a" width="24%" alt="Admin Dashboard">
+  <img src="https://github.com/user-attachments/assets/9367ad7e-bb37-4d1e-a1c8-4ac5fe9307af" width="24%" alt="Student Dashboard">
+  <img src="https://github.com/user-attachments/assets/6dd2f902-e4cf-4067-aa9e-39c33c57c3fc" width="24%" alt="Lecturer Dashboard">
 </p>
-
 **Kenya's premier online technology education platform**
 
 [![PHP](https://img.shields.io/badge/PHP-8.0+-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
