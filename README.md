@@ -31,9 +31,7 @@ ByteClass is a modern Learning Management System (LMS) that empowers students, l
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0.0-green?style=for-the-badge)](CHANGELOG.md)
 
-# Description
 
-ByteClass is a modern Learning Management System (LMS) that empowers students, lecturers, and administrators with interactive online learning, AI-powered tutoring, secure course management, progress tracking, live sessions, certifications, and integrated payment solutions.
 
 [Live Demo](#) · [Documentation](#) · [Report Bug](#) · [Request Feature](#)
 
