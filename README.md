@@ -1,5 +1,10 @@
 # ByteClass — Learn · Build · Grow
 
+# Description
+
+ByteClass is a modern Learning Management System (LMS) that empowers students, lecturers, and administrators with interactive online learning, AI-powered tutoring, secure course management, progress tracking, live sessions, certifications, and integrated payment solutions.
+
+
 <div align="center">
 
 
